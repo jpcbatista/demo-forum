@@ -7,6 +7,6 @@ A aplicação possui autenticação via token, e está separada por Profiles.
 Esse projeto utiliza:
 - Maven 
 - Spring Framework
-- Jsonwebtoken
+- JsonWebToken
 - h2dataBase
 - Swagger
