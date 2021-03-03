@@ -8,5 +8,5 @@ Esse projeto utiliza:
 - Maven 
 - Spring Framework
 - JsonWebToken
-- h2dataBase
+- h2DataBase
 - Swagger
